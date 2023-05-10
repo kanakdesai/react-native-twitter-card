@@ -3,8 +3,8 @@
 ## About The Project
 
 <!-- ![](https://github.com/kanakdesai/react-native-twitter-card/blob/main/light.png) -->
-<a href="url"><img src="https://github.com/kanakdesai/react-native-twitter-card/blob/main/dark.png" align="left" height="841" width="100%" ></a>
-<a href="url"><img src="https://github.com/kanakdesai/react-native-twitter-card/blob/main/light.png" align="left" height="841" width="100%" ></a>
+<a href="url"><img src="https://github.com/kanakdesai/react-native-twitter-card/blob/main/dark.png" align="center" height="841" width="500" ></a>
+<a href="url"><img src="https://github.com/kanakdesai/react-native-twitter-card/blob/main/light.png" align="center" height="841" width="500" ></a>
 
 <br/>
 <br/>
