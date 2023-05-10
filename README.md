@@ -16,9 +16,6 @@ You can also add/remove the verification icon and also the Like button.
 
 
 
-
-<p align="left">(<a href="#readme-top">back to top</a>)</p>
-
 ### Installation
 
 _You can directly install this package in your existing react native project.
@@ -30,7 +27,7 @@ _You can directly install this package in your existing react native project.
    ```
 Sometimes you may have to restart metro to use this package.
 
-<p align="left">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -88,7 +85,7 @@ After your installation is completed you can import the package.
 
 
 
-<p align="left">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
@@ -96,4 +93,4 @@ After your installation is completed you can import the package.
 Email: kanakdesai1@gmail.com
 If you encounter any bugs then please write to me on my email.
 
-<p align="left">(<a href="#readme-top">back to top</a>)</p>
+
