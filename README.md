@@ -9,10 +9,10 @@
 <br/>
 <br/>
 
-This npm package is for people who want to add a Twitter tweet card in their React Native apps. 
+This npm package is for people who want to add a Twitter tweet card in their React Native apps. \
 
-There is support for both light and dark mode. 
-You can also add/remove the verification icon and also the Like button.
+There is support for both light and dark mode. \
+You can also add/remove the verification icon and also the Like button.\
 
 
 
