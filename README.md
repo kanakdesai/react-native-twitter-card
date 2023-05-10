@@ -6,8 +6,8 @@
 <a href="url"><img src="https://github.com/kanakdesai/react-native-twitter-card/blob/main/dark.png" align="left" height="841" width="500" ></a>
 <a href="url"><img src="https://github.com/kanakdesai/react-native-twitter-card/blob/main/light.png" align="left" height="841" width="500" ></a>
 
-<br>
-<br>
+<br/>
+<br/>
 
 This npm package is for people who want to add a Twitter tweet card in their React Native apps. 
 
