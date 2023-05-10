@@ -1,0 +1,22 @@
+{
+  "name": "react-native-twitter-card",
+  "version": "1.0.0",
+  "description": "Twitter Light mode and Dark mode card for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "twitter",
+    "card",
+    "twittercard",
+    "reactnative",
+    "twitter"
+  ],
+  "author": "Kanak Desai",
+  "license": "ISC",
+  "peerDependencies": {"react": "18.2.0",
+  "react-native": "0.71.7"}
+}
